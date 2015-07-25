@@ -19,3 +19,4 @@ sync.cdckyt 추가
 동기화
 push.cdckyt 추가
 pull.cdckyt2 커밋
+push2.cdckyt 커밋
