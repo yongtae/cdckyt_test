@@ -22,4 +22,8 @@ pull.cdckyt2 目乖
 push2.cdckyt 目乖
 push2.cdckyt2 目乖
 寇何档备付胶磐
+<<<<<<< Updated upstream
 test
+=======
+stas
+>>>>>>> Stashed changes
