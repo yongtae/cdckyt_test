@@ -17,3 +17,4 @@
 동기화
 동기화
 push.cdckyt 추가
+pull.cdckyt2 커밋
