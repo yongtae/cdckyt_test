@@ -20,3 +20,5 @@ sync.cdckyt Ãß°¡
 push.cdckyt Ãß°¡
 pull.cdckyt2 Ä¿¹Ô
 push2.cdckyt Ä¿¹Ô
+push2.cdckyt2 Ä¿¹Ô
+
